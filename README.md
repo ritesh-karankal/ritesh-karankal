@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ritesh-karankal
 - 👀 I’m interested in Backend Development and exploring cloud-native space.
-- 🌱 I’m currently learning Golang.
+- 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate in hackathons.
 - 📫 You can reach me on twitter @riteshk-twt
 
