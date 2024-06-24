@@ -1,4 +1,4 @@
-![](https://github.com/ritesh-karankal/ritesh-karankal/blob/ritesh-karankal-patch-1/Group%201.png)
+![](https://github.com/ritesh-karankal/ritesh-karankal/blob/ritesh-karankal-patch-1/Group%201%20(1).png)
 
 <!---
 ritesh-karankal/ritesh-karankal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
