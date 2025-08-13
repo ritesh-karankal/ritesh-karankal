@@ -2,7 +2,7 @@ Hi there, I’m Ritesh 👋
 
 - 💻 Contributing to @ Meshery
 - 🚀 Learning Kubernetes, AWS, and cloud-native tooling
-- ❤️ Big on community & collaboration
+- 🌀 Tryna build Go microservices 
 - 📚 Always curious, always learning
 
  <a href= "https://cloud.layer5.io/user/bf6a3e39-503c-4f58-b244-e5243cfb7cd5?tab=badges&badge=meshery" >
