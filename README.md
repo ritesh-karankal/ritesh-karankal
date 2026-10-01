@@ -18,11 +18,11 @@ Kubernetes · AWS (EKS, VPC, IAM) · Terraform · Argo CD · Helm · GitHub Acti
 #### Community badges
 <p>
   <a href="https://cloud.layer5.io/user/bf6a3e39-503c-4f58-b244-e5243cfb7cd5?tab=badges&badge=meshery">
-    <img width="110" src="https://badges.layer5.io/assets/badges/meshery/meshery.png" alt="Meshery contributor badge"/>
+    <img width="224" height="317"  src="https://badges.layer5.io/assets/badges/meshery/meshery.png" alt="Meshery contributor badge"/>
   </a>
   <a href="https://cloud.layer5.io/user/bf6a3e39-503c-4f58-b244-e5243cfb7cd5?tab=badges&badge=hacktoberfest25">
-    <img width="110" src="https://badges.layer5.io/assets/badges/hacktoberfest-contributor-2025/hacktoberfest25-badge.png" alt="Hacktoberfest 2025 contributor badge"/>
+    <img width="224" height="317"  src="https://badges.layer5.io/assets/badges/hacktoberfest-contributor-2025/hacktoberfest25-badge.png" alt="Hacktoberfest 2025 contributor badge"/>
   </a>
 </p>
 
-📫 Reach me: [LinkedIn](<your-linkedin-url>) · ritesh.karankal200@gmail.com
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/riteshkarankal/) · [email](ritesh.karankal200@gmail.com)
